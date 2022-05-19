@@ -4,7 +4,7 @@ Fully Functional Hand Picked Cars
 adjusted inside view, hands holding the wheel. 
 weights, handling, etc...
 
-no cars over 100mb. all loads as blue and max yello. no red texture issues. 
+no cars over 100mb. all loads as blue and max yellow. no red texture issues. 
 
 ```lua
 Car Catalog:
