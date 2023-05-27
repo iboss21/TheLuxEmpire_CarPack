@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_Luxmitstar8:/data/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxmitstar8:/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxmitstar8:/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxmitstar8:/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxmitstar8:/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxmitstar8:/%PLATFORM%/vehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_Luxmitstar8:/%PLATFORM%/audio/Luxmitstar8_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxmitstar8:/%PLATFORM%/audio/Luxmitstar8_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxmitstar8:/%PLATFORM%/audio/sfx/dlc_Luxmitstar8</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/audio/Luxmitstar8_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>Luxmitstar8_AUTOGEN</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_Luxmitstar8:/data/handling.meta</Item>
+        <Item>dlc_Luxmitstar8:/data/vehicles.meta</Item>
+        <Item>dlc_Luxmitstar8:/data/carcols.meta</Item>
+        <Item>dlc_Luxmitstar8:/data/carvariations.meta</Item>
+        <Item>dlc_Luxmitstar8:/data/dlctext.meta</Item>	
+        <Item>dlc_Luxmitstar8:/%PLATFORM%/vehicles.rpf</Item>
+		<Item>dlc_Luxmitstar8:/%PLATFORM%/audio/Luxmitstar8_game.dat</Item>
+        <Item>dlc_Luxmitstar8:/%PLATFORM%/audio/Luxmitstar8_sounds.dat</Item>
+        <Item>dlc_Luxmitstar8:/%PLATFORM%/audio/sfx/dlc_Luxmitstar8</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/audio/Luxmitstar8_amp.dat</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>
