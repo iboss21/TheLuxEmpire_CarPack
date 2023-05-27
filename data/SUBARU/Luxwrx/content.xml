@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+	<disabledFiles />
+	<includedXmlFiles />
+	<includedDataFiles />
+	<dataFiles>
+		<Item>
+			<filename>dlc_Luxwrx:/common/data/ai/vehiclelayouts.meta</filename>
+			<fileType>VEHICLE_LAYOUTS_FILE</fileType>
+			<locked value="false" />
+			<disabled value="true" />
+			<persistent value="true" />
+			<overlay value="true" />
+		</Item>
+		<Item>
+			<filename>dlc_Luxwrx:/common/data/levels/gta5/vehicles.meta</filename>
+			<fileType>VEHICLE_METADATA_FILE</fileType>
+			<locked value="false" />
+			<disabled value="true" />
+			<persistent value="true" />
+			<overlay value="true" />
+		</Item>
+		<Item>
+			<filename>dlc_Luxwrx:/common/data/carcols.meta</filename>
+			<fileType>CARCOLS_FILE</fileType>
+			<locked value="false" />
+			<disabled value="true" />
+			<persistent value="true" />
+			<overlay value="true" />
+		</Item>
+		<Item>
+			<filename>dlc_Luxwrx:/common/data/carvariations.meta</filename>
+			<fileType>VEHICLE_VARIATION_FILE</fileType>
+			<locked value="false" />
+			<disabled value="true" />
+			<persistent value="true" />
+			<overlay value="true" />
+		</Item>
+		<Item>
+			<filename>dlc_Luxwrx:/common/data/dlctext.meta</filename>
+			<fileType>TEXTFILE_METAFILE</fileType>
+			<locked value="false" />
+			<disabled value="true" />
+			<persistent value="true" />
+			<overlay value="true" />
+		</Item>
+		<Item>
+			<filename>dlc_Luxwrx:/common/data/handling.meta</filename>
+			<fileType>HANDLING_FILE</fileType>
+			<locked value="false" />
+			<disabled value="true" />
+			<persistent value="true" />
+			<overlay value="true" />
+		</Item>
+		<Item>
+			<filename>dlc_Luxwrx:/common/data/shop_vehicle.meta</filename>
+			<fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+			<locked value="false" />
+			<disabled value="true" />
+			<persistent value="true" />
+			<overlay value="true" />
+		</Item>
+		<Item>
+			<filename>dlc_Luxwrx:/%PLATFORM%/levels/gta5/vehicles/vehicles.rpf</filename>
+			<fileType>RPF_FILE</fileType>
+			<locked value="false" />
+			<disabled value="true" />
+			<persistent value="true" />
+			<overlay value="true" />
+		</Item>
+		<Item>
+			<filename>dlc_Luxwrx:/%PLATFORM%/levels/gta5/vehiclemods/Luxwrx_mods.rpf</filename>
+			<fileType>RPF_FILE</fileType>
+			<locked value="false" />
+			<disabled value="true" />
+			<persistent value="true" />
+			<overlay value="true" />
+		</Item>
+	</dataFiles>
+	<contentChangeSets>
+		<Item>
+			<changeSetName>Luxwrx_AUTOGEN</changeSetName>
+			<filesToEnable>
+				<Item>dlc_Luxwrx:/common/data/ai/vehiclelayouts.meta</Item>
+				<Item>dlc_Luxwrx:/common/data/levels/gta5/vehicles.meta</Item>
+				<Item>dlc_Luxwrx:/common/data/carcols.meta</Item>
+				<Item>dlc_Luxwrx:/common/data/carvariations.meta</Item>
+				<Item>dlc_Luxwrx:/common/data/dlctext.meta</Item>
+				<Item>dlc_Luxwrx:/common/data/handling.meta</Item>
+				<Item>dlc_Luxwrx:/common/data/shop_vehicle.meta</Item>
+				<Item>dlc_Luxwrx:/%PLATFORM%/levels/gta5/vehicles/vehicles.rpf</Item>
+				<Item>dlc_Luxwrx:/%PLATFORM%/levels/gta5/vehiclemods/Luxwrx_mods.rpf</Item>
+			</filesToEnable>
+		</Item>
+	</contentChangeSets>
+	<patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

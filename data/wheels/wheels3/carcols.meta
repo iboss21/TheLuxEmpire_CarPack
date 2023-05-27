@@ -1,0 +1,310 @@
+<CVehicleModelInfoVarGlobal>    
+<Wheels>
+    <Item/> <!-- VWT_SPORT -->
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item/> <!-- VWT_SUV -->
+    <Item/> <!-- VWT_OFFROAD -->
+    <Item> <!-- VWT_TUNER -->
+<Item>
+        <wheelName>wheel_mes043</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME04-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes043m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME04-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes043c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME04-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes063</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME06-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes063m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME06-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes063c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME06-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes103</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME10-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes103m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME10-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes103c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME10-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes003</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME00-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes003m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME00-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes003c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME00-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes021</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME02-1</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes021m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME02-1</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes021c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME02-1</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+   <Item>
+        <wheelName>wheel_mes023</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME02-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	     <Item>
+        <wheelName>wheel_mes023m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME02-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	     <Item>
+        <wheelName>wheel_mes023c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME02-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	     <Item>
+        <wheelName>wheel_mes033</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME03-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	    	     <Item>
+        <wheelName>wheel_mes033m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME03-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	    	     <Item>
+        <wheelName>wheel_mes033c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME03-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	    	     <Item>
+        <wheelName>wheel_mes053</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME05-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	    	     <Item>
+        <wheelName>wheel_mes053m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME05-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	    	     <Item>
+        <wheelName>wheel_mes053c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME05-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	    	     <Item>
+        <wheelName>wheel_mes073</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME07-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes073m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME07-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes073c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME07-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes083</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME08-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes083m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME08-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes083c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME08-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes093</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME09-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes093m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME09-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes093c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME09-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes113</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME11-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes113m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME11-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes113c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME11-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes123</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME12-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes123m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME12-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes123c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME12-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes153</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME15-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes153m</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME15-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	  	  	  	  	  	  	  	  	  	  	    	     <Item>
+        <wheelName>wheel_mes153c</wheelName>
+        <wheelVariation />
+        <modShopLabel>MESSER ME15-3</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+	</Item>
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>
