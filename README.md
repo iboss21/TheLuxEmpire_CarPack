@@ -5,4 +5,6 @@ Under Update.
 
 release will be soon.
 
-expecting release jul 30 2023
+To Do
+- Reorganization of files
+- Removal of Badges (BMW, Rolls Royce, and MINI)
