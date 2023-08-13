@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSetupData>
+	<deviceName>dlc_Luxgxa70</deviceName>
+	<datFile>content.xml</datFile>
+	<timeStamp>15/12/2021 9:52:34 am</timeStamp>
+	<nameHash>Luxgxa70</nameHash>
+	<contentChangeSetGroups>
+		<Item>
+			<NameHash>GROUP_STARTUP</NameHash>
+			<ContentChangeSets>
+				<Item>Luxgxa70_AUTOGEN</Item>
+				<Item>Luxgxa70_UNLOCKS_AUTOGEN</Item>
+			</ContentChangeSets>
+		</Item>
+	</contentChangeSetGroups>
+	<type>EXTRACONTENT_COMPAT_PACK</type>
+	<order value="9" />
+</SSetupData>

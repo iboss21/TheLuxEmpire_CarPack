@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_shonen</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>14/01/2016 15:00:00</timeStamp>
+  <nameHash>shonen</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>SHONEN_AUTOGEN</Item>
+        <Item>SHONEN_UNLOCKS_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="14" />  
+</SSetupData>

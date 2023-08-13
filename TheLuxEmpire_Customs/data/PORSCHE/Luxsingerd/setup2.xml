@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_Luxsingerd</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>24/11/2014 12:00:00</timeStamp>
+  <nameHash>Luxsingerd</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>Luxsingerd_AUTOGEN</Item>
+        <Item>Luxsingerd_UNLOCKS_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="9" />  
+</SSetupData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_rmodgt63</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>01/06/2019 00:00:00</timeStamp>
+  <nameHash>rmodgt63</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>RMODGT63_AUTOGEN</Item>
+		<Item platform="ps4|xboxone">RMODGT63_PLATFORM_SPECS</Item>
+        <Item>RMODGT63_UNLOCKS_AUTOGEN</Item>
+    <Item>
+      <NameHash>GROUP_ON_DEMAND</NameHash>
+      <ContentChangeSets>
+        <Item>RMODGT63_ANIM_OVERLAYS</Item>
+      </ContentChangeSets>
+    </Item>	
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="13" />  
+</SSetupData>

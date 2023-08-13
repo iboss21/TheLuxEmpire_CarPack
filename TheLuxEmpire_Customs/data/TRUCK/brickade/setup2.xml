@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_ag_brickade_packv25a</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>14/11/2016 23:42:00</timeStamp>
+  <nameHash>0xB5C9E1C0</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>AG_BRICKADE_PACKV25A_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="13" />  
+</SSetupData>

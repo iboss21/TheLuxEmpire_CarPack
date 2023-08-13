@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+	<deviceName>dlc_dongfeng140</deviceName>
+	<datFile>content.xml</datFile>
+	<timeStamp>31/01/2022 00:00:00</timeStamp>
+	<nameHash>dongfeng140</nameHash>
+	<contentChangeSetGroups>
+		<Item>
+			<NameHash>GROUP_STARTUP</NameHash>
+			<ContentChangeSets>
+				<Item>dongfeng140_AUTOGEN</Item>
+			</ContentChangeSets>
+		</Item>
+	</contentChangeSetGroups>
+	<type>EXTRACONTENT_COMPAT_PACK</type>
+	<order value="9"/>
+</SSetupData>

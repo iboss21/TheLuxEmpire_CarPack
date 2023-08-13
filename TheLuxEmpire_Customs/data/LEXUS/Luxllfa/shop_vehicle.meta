@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_Luxllfa_VEH</lockHash>
+			<modelNameHash>Luxllfa</modelNameHash>
+			<cost value="100"/>
+			<textLabel>Luxllfa</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>

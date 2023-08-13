@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_vapidrv</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>27/05/2019 21:09:40</timeStamp>
+  <nameHash>VAPIDRV</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>VAPIDRV_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+	<type>EXTRACONTENT_LEVEL_PACK</type>
+  <order value="52" />  
+  <minorOrder value="0" />
+  <isLevelPack value="true" />
+  <dependencyPackHash />
+  <requiredVersion />
+  <subPackCount value="0" />
+</SSetupData>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_Luxbmwm635:/data/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxbmwm635:/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxbmwm635:/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxbmwm635:/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+    <Item>
+      <filename>dlc_Luxbmwm635:/%PLATFORM%/vehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_Luxbmwm635:/%PLATFORM%/audio/s38b35_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxbmwm635:/%PLATFORM%/audio/s38b35_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_Luxbmwm635:/%PLATFORM%/audio/s38b35_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+        <Item>
+      <filename>dlc_Luxbmwm635:/%PLATFORM%/audio/sfx/dlc_s38b35</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+	<Item>
+	  <changeSetName>Luxbmwm635_AUTOGEN</changeSetName>
+	  <filesToDisable />
+	  <filesToEnable>
+        <Item>dlc_Luxbmwm635:/data/handling.meta</Item>
+        <Item>dlc_Luxbmwm635:/data/vehicles.meta</Item>
+        <Item>dlc_Luxbmwm635:/data/carvariations.meta</Item>
+        <Item>dlc_Luxbmwm635:/data/dlctext.meta</Item>	
+        <Item>dlc_Luxbmwm635:/%PLATFORM%/vehicles.rpf</Item>
+		<Item>dlc_Luxbmwm635:/%PLATFORM%/audio/s38b35_amp.dat</Item>
+		<Item>dlc_Luxbmwm635:/%PLATFORM%/audio/s38b35_game.dat</Item>
+		<Item>dlc_Luxbmwm635:/%PLATFORM%/audio/s38b35_sounds.dat</Item>
+		<Item>dlc_Luxbmwm635:/%PLATFORM%/audio/sfx/dlc_s38b35</Item>
+	  </filesToEnable>
+	  <txdToLoad />
+	  <txdToUnload />
+	  <residentResources />
+	  <unregisterResources />
+	</Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>
