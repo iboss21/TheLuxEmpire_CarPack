@@ -1,5 +1,7 @@
 TheLuxEmpire_CarPack Documentation
 
+Update on this projects has been pushed. still in development. will be debadged.
+
 Overview
 TheLuxEmpire_CarPack is a comprehensive collection of fully functional, hand-picked cars designed for optimal performance. This car pack offers adjusted inside views with hands holding the wheel, ensuring an immersive driving experience. The pack includes a variety of cars with different weights, handling characteristics, and more.
 
